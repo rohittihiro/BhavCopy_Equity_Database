@@ -11,4 +11,6 @@ Creates a database of OHLCV of EOD data of securities listed in NSE (National St
 2. All the downloaded BhavCopies will be processed and made available as pickled data of *Pandas DataFrame*.
 
 ###Usage
-*python download_data.py 2009-04-01*
+**python download_data.py 2009-04-01**
+
+Note: It will download data from 1 April 2009 to present.
